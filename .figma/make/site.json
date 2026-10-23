@@ -1,0 +1,11 @@
+{
+  "title": "cssprint2026 draft",
+  "description": "Manage your Filipino MSME efficiently with a mobile-first dashboard that provides essential financial insights, alerts, and quick actions in a clean, user-friendly interface.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
