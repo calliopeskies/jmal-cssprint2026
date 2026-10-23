@@ -8,6 +8,9 @@ JMALago is progressive web application (PWA) aims to target micro, small, and me
 * Inventory Management - Track products and their quantities.
 + Business Records & Reminders - Keep track of relevant documents and important filing or renewals.
 
+## Link
+Live Preview: https://cough-glory-66402544.figma.site/
+
 ## Installation
 
 **Prerequisites**
